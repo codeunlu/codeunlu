@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi I'm Mustafa  👋🏼
 
-<!--
-**codeunlu/codeunlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am skilled in solid principle, clean code, hibernate and spring framework, api testing,  Java and JavaScript programming language. 
 
-Here are some ideas to get you started:
+I have excellent analytical skills and good relationship with people. I am also self-motivated, responsible, and highly organized.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Strong Languages** : Java, JavaScript
+
+- 🔭 I’m currently working on building my web developer career.👨🏻‍💻
+- 🌱 I’m currently learning React,Java
+- 📫 How to reach me: [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-unlu/)
+###
+
+[![](https://img.shields.io/twitter/follow/codeunlu?style=social)](https://www.twitter.com/codeunlu)
