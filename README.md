@@ -1,6 +1,6 @@
 ### Hi I'm Mustafa  👋🏼
 
-I am skilled in solid principle, clean code, hibernate and spring framework, api testing,  Java and JavaScript programming language. 
+I am skilled in solid principle, clean code, spring framework and spring boot, api testing,  Java and JavaScript programming language. 
 
 I have excellent analytical skills and good relationship with people. I am also self-motivated, responsible, and highly organized.
 
