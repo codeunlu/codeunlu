@@ -8,7 +8,7 @@ I am an Electrical Electronic Engineer and I am very fond of coding. I am always
 
 # Knowledge 🧠
 
-![alt text](https://github.com/codeunlu/codeunlu/blob/main/java-icon.png) ![alt text](https://github.com/codeunlu/codeunlu/blob/main/javascript.png) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/react.png?raw=true)
+![alt text](https://github.com/codeunlu/codeunlu/blob/main/icons8-java.gif) ![alt text](https://github.com/codeunlu/codeunlu/blob/main/javascript.png) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/react.png?raw=true)
 
 # Contact Me 📫
 
