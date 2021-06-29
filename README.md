@@ -9,7 +9,7 @@ I'm a self-motivated Web Developer who is open to change and a person who adores
 
 # Knowledge 🧠
 
-![Java](https://github.com/codeunlu/codeunlu/blob/main/icons8-java-32.png) ![JavaScript](https://github.com/codeunlu/codeunlu/blob/main/icons8-javascript-32.png) ![ReactJs](https://github.com/codeunlu/codeunlu/blob/main/icons8-react-native-32.png) ![Visual Studio Code](https://github.com/codeunlu/codeunlu/blob/main/icons8-visual-studio-code-2019-32.png) ![Intelij](https://github.com/codeunlu/codeunlu/blob/main/icons8-intellij-idea-32.png)
+![Java](https://github.com/codeunlu/codeunlu/blob/main/icons8-java.svg) ![JavaScript](https://github.com/codeunlu/codeunlu/blob/main/icons8-javascript-32.png) ![ReactJs](https://github.com/codeunlu/codeunlu/blob/main/icons8-react-native-32.png) ![Visual Studio Code](https://github.com/codeunlu/codeunlu/blob/main/icons8-visual-studio-code-2019-32.png) ![Intelij](https://github.com/codeunlu/codeunlu/blob/main/icons8-intellij-idea-32.png)
 
 # Contact Me 📫
 
