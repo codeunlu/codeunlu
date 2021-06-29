@@ -1,6 +1,6 @@
 # Hi! 👋
 
-![alt text](https://github.com/codeunlu/codeunlu/blob/main/Frame%201%20(10).png)
+![alt text](https://github.com/codeunlu/codeunlu/blob/main/Frame%201%20(10).png | width=100)
 
 I'm a self-motivated Web Developer who is open to change and a person who adores love and devotion. Besides being a Web Developer , I spend my spare time reading books about science and philosophy. When it comes to work , I tend to be meticulous on the projects I work and at the same time I'm extremely patient. I really enjoy sharing the work with my team mates and struggling side by side.
 
@@ -9,7 +9,7 @@ I'm a self-motivated Web Developer who is open to change and a person who adores
 
 # Knowledge 🧠
 
-![alt text](https://github.com/codeunlu/codeunlu/blob/main/icons8-java.gif) ![alt text](https://github.com/codeunlu/codeunlu/blob/main/javascript.png) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/react.png?raw=true)
+![alt text](https://github.com/codeunlu/codeunlu/blob/main/icons8-java.gif=32x32) ![alt text](https://github.com/codeunlu/codeunlu/blob/main/javascript.png) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/react.png?raw=true)
 
 # Contact Me 📫
 
