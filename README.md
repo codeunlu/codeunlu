@@ -6,7 +6,7 @@ I'm a self-motivated Web Developer who is open to change and a person who adores
 
 # Knowledge 🧠
 
-![Csharp](https://github.com/codeunlu/codeunlu/blob/main/icons8-c-sharp-logo-48.png) ![Java](https://github.com/codeunlu/codeunlu/blob/main/icons8-java-48.png) ![JavaScript](https://github.com/codeunlu/codeunlu/blob/main/icons8-javascript-48.png) ![ReactJs](https://github.com/codeunlu/codeunlu/blob/main/icons8-react-native-48.png) ![Visual Studio Code](https://github.com/codeunlu/codeunlu/blob/main/icons8-visual-studio-code-2019-48.png) ![Visual Studio](https://github.com/codeunlu/codeunlu/blob/main/icons8-visual-studio-code-2019-48.png) ![Intelij](https://github.com/codeunlu/codeunlu/blob/main/icons8-intellij-idea-48.png)
+![Csharp](https://github.com/codeunlu/codeunlu/blob/main/icons8-c-sharp-logo-48.png) ![Java](https://github.com/codeunlu/codeunlu/blob/main/icons8-java-48.png) ![JavaScript](https://github.com/codeunlu/codeunlu/blob/main/icons8-javascript-48.png) ![ReactJs](https://github.com/codeunlu/codeunlu/blob/main/icons8-react-native-48.png) ![Visual Studio Code](https://github.com/codeunlu/codeunlu/blob/main/icons8-visual-studio-code-2019-48.png) ![Visual Studio](https://github.com/codeunlu/codeunlu/blob/main/icons8-visual-studio-2019-48.png) ![Intelij](https://github.com/codeunlu/codeunlu/blob/main/icons8-intellij-idea-48.png)
 
 # Contact Me 📫
 
