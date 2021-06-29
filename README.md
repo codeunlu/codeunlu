@@ -9,7 +9,7 @@ I'm a self-motivated Web Developer who is open to change and a person who adores
 
 # Knowledge 🧠
 
-![alt text](https://github.com/codeunlu/codeunlu/blob/main/icons8-java.gif=32x32) ![alt text](https://github.com/codeunlu/codeunlu/blob/main/javascript.png) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/react.png?raw=true)
+![alt text](https://github.com/codeunlu/codeunlu/blob/main/icons8-java.gif =32x32) ![alt text](https://github.com/codeunlu/codeunlu/blob/main/javascript.png) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/react.png?raw=true)
 
 # Contact Me 📫
 
