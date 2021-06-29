@@ -1,6 +1,6 @@
 # Hi! 👋
 
-![alt text](https://image.freepik.com/free-vector/coding-system-banner_87720-2994.jpg)
+![alt text](https://github.com/codeunlu/codeunlu/blob/main/Frame%201%20(10).png)
 
 I'm a self-motivated Web Developer who is open to change and a person who adores love and devotion. Besides being a Web Developer , I spend my spare time reading books about science and philosophy. When it comes to work , I tend to be meticulous on the projects I work and at the same time I'm extremely patient. I really enjoy sharing the work with my team mates and struggling side by side.
 
