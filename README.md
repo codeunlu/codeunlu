@@ -5,11 +5,11 @@
 I'm a self-motivated Web Developer who is open to change and a person who adores love and devotion. Besides being a Web Developer , I spend my spare time reading books about science and philosophy. When it comes to work , I tend to be meticulous on the projects I work and at the same time I'm extremely patient. I really enjoy sharing the work with my team mates and struggling side by side.
 
 
-[Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeunlu&hide=contribs,prs&theme=cobalt&show_icons=true)
+[![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeunlu&hide=contribs,prs&theme=cobalt&show_icons=true)]
 
 # Knowledge 🧠
 
-![alt text](https://github.com/codeunlu/codeunlu/blob/main/icons8-java.gif =32x32) ![alt text](https://github.com/codeunlu/codeunlu/blob/main/javascript.png) ![alt text](https://github.com/MhmtMutlu/MhmtMutlu/blob/master/react.png?raw=true)
+![Java](https://github.com/codeunlu/codeunlu/blob/main/icons8-java-32.png) ![JavaScript](https://github.com/codeunlu/codeunlu/blob/main/icons8-javascript-32.png) ![ReactJs](https://github.com/codeunlu/codeunlu/blob/main/icons8-react-native-32.png) ![Visual Studio Code](https://github.com/codeunlu/codeunlu/blob/main/icons8-visual-studio-code-2019-32.png) ![Intelij](https://github.com/codeunlu/codeunlu/blob/main/icons8-intellij-idea-32.png)
 
 # Contact Me 📫
 
