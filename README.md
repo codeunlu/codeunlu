@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeunlu
 - 👀 I’m interested in Full Stack Developer.
-- 🌱 I’m currently learning JavaScript,Vue and Java.
+- 🌱 I’m currently learning JavaScript,React and Java.
 - 💞️ I’m looking to collaborate on.
 - 📫 Contact me codeunlu@gmail.com.
 
