@@ -9,7 +9,7 @@
   
 #### 🛠 Tools and Framework
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,java,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,java,spring,postgres,idea)](https://skillicons.dev)
   
 ### Connect with me
 
@@ -21,13 +21,3 @@
 <a href="https://github.com/codeunlu/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=codeunlu&color=9A8181">
 </a>
-
-
-<!-- #### 📈 Github Stats
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"> &nbsp;<img alt="Jamila's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeunlu&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nslhnatasvr)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslhnatasvr&theme=omni&show_icons=true) 
- 
- -->
