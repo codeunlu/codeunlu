@@ -9,7 +9,7 @@
   
 #### 🛠 Tools and Framework
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,java,spring,postgres,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,java,spring,postgres,idea)](https://skillicons.dev)
   
 ### Connect with me
 
