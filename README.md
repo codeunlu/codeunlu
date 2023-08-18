@@ -4,7 +4,7 @@
     <br /> -->
   
   <samp> Mustafa ÜNLÜ </samp> <br />
-    <samp> Software Developer </samp> <br />
+    <samp> Full Stack Developer </samp> <br />
     <samp></samp>
   
 #### 🛠 Tools and Framework
