@@ -10,6 +10,9 @@
 #### 🛠 Tools and Framework
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,java,spring,postgres,idea)](https://skillicons.dev)
+
+#### 🛠 My Hobbies and Future Work
+[![My Skills](https://skillicons.dev/icons?i=vscode,react,swift)](https://skillicons.dev)
   
 ### Connect with me
 
